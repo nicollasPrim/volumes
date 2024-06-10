@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(black, rgb(255, 145, 0));
+    text-align: center;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    color: white;
+}
+
+button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 145, 0);
+    font-family: monospace;
+    margin: 13px;
+    border-radius: 13px;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+button:hover{
+    transition: 0.5s;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 145, 0);
+}
+
+input{
+    background-color: black;
+    color: rgb(255, 145, 0);
+    border-radius: 12px;
+    border-color: rgb(255, 145, 0);
+    font-size: 14px;
+    padding-left: 10px;
+    padding: 6px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
